@@ -1,0 +1,9 @@
+.avatar.proportioned#woman {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted#man {
+    width: 200px;
+    height: 400px
+}
