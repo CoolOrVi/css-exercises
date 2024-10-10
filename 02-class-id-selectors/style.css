@@ -1,0 +1,19 @@
+p {
+    background-color: hsl(0, 100%, 80%);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif
+}
+
+.sec {
+    color: hsl(244, 100%, 50%);
+    font-size: 36px
+}
+
+.thi,
+.fou {
+    font-size: 24px
+}
+
+.fou {
+    background-color: hsl(145, 100%, 51%);
+    font-weight: bold
+}
