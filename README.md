@@ -1,2 +1,2 @@
 # css-exercises
-Exercises from The Odin Projec
+Exercises from The Odin Project
